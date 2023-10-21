@@ -1,0 +1,50 @@
+/* Reset some default styles */
+Body {
+    Margin: 0;
+    Padding: 0;
+}
+
+h1, p {
+    Margin: 15;
+    Padding: 0;
+}
+
+h2 {
+    Margin: 15;
+    Padding: 0;
+}
+
+p {
+    Margin: 0;
+    Padding: 0;
+}
+
+/* Global styles */
+Body {
+    Font-family: Arial, sans-serif;
+    Background-color: #f5f5f5;
+    Color: #333;
+    Line-height: 1.6;
+    Margin: 0;
+    Padding: 0;
+}
+
+Header {
+    Text-align: center;
+    Padding: 50px;
+    Background-color: #bf34db;
+    Color: #fff;
+}
+
+#projects {
+    Margin: 75px;
+    Padding: 30px;
+}
+
+
+Footer {
+    Text-align: center;
+    Padding: 20px;
+    Background-color: #333;
+    Color: #fff;
+}
